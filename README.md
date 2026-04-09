@@ -4,7 +4,7 @@
 
 <!--- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file --->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BiscuitsLayer&show_icons=true&theme=moltack)
+<!---  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAnotherArchetype&show_icons=true&theme=moltack) --->
 
 <!--- https://github.com/Ileriayo/markdown-badges --->
 <!--- https://dev.to/envoy_/150-badges-for-github-pnk --->
